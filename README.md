@@ -23,6 +23,8 @@ vigente.
 
 ## Información sobre despliegue
 
+[Información sobre despliegue - Wiki](https://github.com/iesgrancapitan-proyectos/202021daw_junio_sistema_aforado_inteligente_vehiculos-anxxt/wiki/Manual_Despliegue)
+
 [](#información-sobre-despliegue)
 
 ## Información sobre cómo usarlo
