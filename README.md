@@ -8,6 +8,17 @@
 
 ## Descripción del proyecto
 
+Se trata de un sistema dotado con dispositivos hardware de captación de imagen y software de procesamiento, capaz de
+leer las matrículas de los vehículos que transitan por una determinada vía, realizando el registro de la información en
+una base de datos consultable mediante una interfaz web.
+
+El sistema permitirá conocer el aforo de vehículos de forma identificada. Ello permitirá conocer el uso permanente de la
+infraestructura, así como proporcionar el registro discriminado de los usuarios de la vía, a las administraciones locales competentes.
+
+Los elementos se instalarán en un bolardo urbano modelo Barcelona ‘92. Así mismo contará con los elementos de
+protección, alimentación y comunicación necesarios para el correcto funcionamiento técnico adecuado a la normativa
+vigente.
+
 [](#descripción-del-proyecto)
 
 ## Información sobre despliegue
