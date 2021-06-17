@@ -121,6 +121,12 @@ main div.container div.box {
   margin: 5px;
 }
 
+@media only screen and (min-width: 1200px) {
+  main div.container div.box {
+    height: 25vh;
+  }
+}
+
 main div.container div.box p {
   font-size: 1.2rem;
   text-align: center;
