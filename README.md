@@ -1,9 +1,9 @@
 # Sistema de Aforamiento Inteligente de Vehículos
 
-- [Sistema de Aforamiento Inteligente de Vehículos](#sistema-de-aforamiento-inteligente-de-vehiculos)
-  - [Descripción del proyecto](#descripcion-del-proyecto)
-  - [Información sobre despliegue](#informacion-sobre-despliegue)
-  - [Información sobre cómo usarlo](#informacion-sobre-como-usarlo)
+- [Sistema de Aforamiento Inteligente de Vehículos](#sistema-de-aforamiento-inteligente-de-vehículos)
+  - [Descripción del proyecto](#descripción-del-proyecto)
+  - [Información sobre despliegue](#información-sobre-despliegue)
+  - [Información sobre cómo usarlo](#información-sobre-cómo-usarlo)
   - [Autor](#autor)
 
 ## Descripción del proyecto
@@ -38,15 +38,15 @@ ioajfsfaioashfaffffff
 ioajfsfaioashfaffffff
 ioajfsfaioashfaffffff
 
-[](#descripcion-del-proyecto)
+[](#descripción-del-proyecto)
 
 ## Información sobre despliegue
 
-[](#informacion-sobre-despliegue)
+[](#información-sobre-despliegue)
 
 ## Información sobre cómo usarlo
 
-[](#informacion-sobre-como-usarlo)
+[](#información-sobre-cómo-usarlo)
 
 ## Autor
 
