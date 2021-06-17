@@ -20,4 +20,6 @@
 
 ## Autor
 
+- [@anxxt](https://www.github.com/anxxt)
+
 [:arrow_up:](#info-autor)
