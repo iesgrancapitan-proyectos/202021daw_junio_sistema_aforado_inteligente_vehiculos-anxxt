@@ -121,12 +121,6 @@ main div.container div.box {
   margin: 5px;
 }
 
-@media only screen and (min-width: 1200px) {
-  main div.container div.box {
-    height: 25vh;
-  }
-}
-
 main div.container div.box p {
   font-size: 1.2rem;
   text-align: center;
@@ -135,18 +129,12 @@ main div.container div.box p {
 
 @media only screen and (min-width: 600px) {
   main div.container div.box p {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
   }
 }
 
 main div.container div.box span#num {
-  font-size: 2.3rem;
-}
-
-@media only screen and (min-width: 600px) {
-  main div.container div.box span#num {
-    font-size: 2.7rem;
-  }
+  font-size: 2rem;
 }
 
 main table {
@@ -168,7 +156,7 @@ main th {
 
 @media only screen and (min-width: 600px) {
   main th {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
   }
 }
 
@@ -178,7 +166,7 @@ main td {
 
 @media only screen and (min-width: 600px) {
   main td {
-    font-size: 1.45rem;
+    font-size: 1.3rem;
   }
 }
 
