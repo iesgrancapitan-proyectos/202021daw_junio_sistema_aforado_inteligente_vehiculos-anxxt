@@ -20,6 +20,6 @@
 
 ## Autor
 
-Antonio García García ([@anxxt](https://www.github.com/anxxt))
+- Antonio García García ([@anxxt](https://www.github.com/anxxt))
 
 [](#info-autor)
