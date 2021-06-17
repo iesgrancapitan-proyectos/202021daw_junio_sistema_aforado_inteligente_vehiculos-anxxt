@@ -19,20 +19,14 @@ Los elementos se instalarán en un bolardo urbano modelo Barcelona ‘92. Así m
 protección, alimentación y comunicación necesarios para el correcto funcionamiento técnico adecuado a la normativa
 vigente.
 
-[](#descripción-del-proyecto)
-
 ## Información sobre despliegue
 
 [Información sobre despliegue - Wiki](https://github.com/iesgrancapitan-proyectos/202021daw_junio_sistema_aforado_inteligente_vehiculos-anxxt/wiki/Manual_Despliegue)
 
-[](#información-sobre-despliegue)
-
 ## Información sobre cómo usarlo
 
-[](#información-sobre-cómo-usarlo)
+
 
 ## Autor
 
 - Antonio García García ([@anxxt](https://www.github.com/anxxt))
-
-[](#autor)
