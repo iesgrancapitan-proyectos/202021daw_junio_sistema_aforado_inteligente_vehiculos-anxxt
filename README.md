@@ -8,36 +8,6 @@
 
 ## Descripción del proyecto
 
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-ioajfsfaioashfaffffff
-
 [](#descripción-del-proyecto)
 
 ## Información sobre despliegue
