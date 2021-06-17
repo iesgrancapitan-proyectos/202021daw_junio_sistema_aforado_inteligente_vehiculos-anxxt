@@ -8,18 +8,18 @@
 
 ## Descripción del proyecto
 
-[:arrow_up:](#descripcion-proyecto)
+[](#descripcion-proyecto)
 
 ## Información sobre despliegue
 
-[:arrow_up:](#info-deploy)
+[](#info-deploy)
 
 ## Información sobre cómo usarlo
 
-[:arrow_up:](#info-uso)
+[](#info-uso)
 
 ## Autor
 
 Antonio García García ([@anxxt](https://www.github.com/anxxt))
 
-[:arrow_up:](#info-autor)
+[](#info-autor)
