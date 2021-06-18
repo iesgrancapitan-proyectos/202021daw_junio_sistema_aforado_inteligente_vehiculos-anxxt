@@ -3,6 +3,8 @@ require_once('config/config.php');
 
 $data_json = json_decode(file_get_contents('php://input'), true);
 
+if ($data_json == null) exit(1);
+
 $data = $data_json['data'];
 $epoch = time();
 
