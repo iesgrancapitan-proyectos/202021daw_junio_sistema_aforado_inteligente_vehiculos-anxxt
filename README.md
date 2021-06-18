@@ -25,11 +25,9 @@ vigente.
 
 ## Información sobre cómo usarlo
 
-Al descargar el repositorio, el archivo main.py habrá que colocarlo en una raspberry pi con una cámara e instalar las dependencias necesarias para su ejecución.
+Ejecutaremos el archivo main.py en nuestra raspberry pi con cámara donde podremos pasar una matrícula y que esta sea reconocida.
 
-Habrá que colocar el archivo php/insert.php en un servidor y configurar su dirección dentro del archivo main.py. Dentro del archivo config.php que se encuentra dentro de interfaz_web/config/ debemos de poner los datos de nuestra base de datos a utilizar.
-
-Montar la carpeta interfaz_web dentro de algún servidor web para poder visualizar los datos captados desde la cámara de la raspberry pi.
+Una vez sea reconocida se enviará al servidor y podremos ver los resultados en nuestra interfaz web.
 
 ## Autor
 
