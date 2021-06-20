@@ -1,6 +1,14 @@
 import cv2
 import imutils
 import numpy as np
+import os
+
+directory = "img/"
+
+try:
+  	os.stat(directory)
+except:
+  	os.mkdir(directory)
 
 # Inicializar la webcam, cap es el objeto proporcionado por la captura de video
 # contiene un booleano que indica si fue exitoso (ret)
