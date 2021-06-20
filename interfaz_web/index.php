@@ -22,6 +22,8 @@
     <?php
         error_reporting(0);
         require_once('config/config.php');
+        
+        date_default_timezone_set('Europe/Madrid');
         $passphrase = "822e130304addcbd3852619ccdbdd1a81152b353ffc4d0e69ed38787e37f22bb";
         $totalHoy = 0;
 
