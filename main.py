@@ -33,7 +33,7 @@ def encriptar(data, passphrase):
 	return clean
 
 def enviar_datos(data):
-	url = "https://interlight.es/app/proyectointegrado2021/insert.php" # Si falla cambiar por https://proyectointegrado2021.000webhostapp.com/insert.php
+	url = "https://proyectointegrado2021.000webhostapp.com/insert.php"
 	datos = {"data": data} # El json que enviamos
 	respuesta = requests.post(url, json=datos)
 
