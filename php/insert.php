@@ -6,7 +6,7 @@ $data_json = json_decode(file_get_contents('php://input'), true);
 if ($data_json == null) exit(1);
 
 $data = $data_json['data'];
-$epoch = time();
+$epoch = time() + 7200; // 7200 le añade 2 horas que es nuetro timezone
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $database);
